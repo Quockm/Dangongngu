@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dangonngu13072020</string>
+    <string name="DANGNHAPHETHONG">System Login</string>
+    <string name="MATKHAU">Password</string>
+    <string name="DANGNHAP">Login</string>
+    <string name="TAIKHOAN">Account</string>
+</resources>

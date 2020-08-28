@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dangonngu13072020</string>
+    <string name="DANGNHAPHETHONG">Đăng nhập hệ thống</string>
+    <string name="MATKHAU">Mật khẩu</string>
+    <string name="DANGNHAP">Đăng nhập</string>
+    <string name="TAIKHOAN">Tài khoản</string>
+</resources>
