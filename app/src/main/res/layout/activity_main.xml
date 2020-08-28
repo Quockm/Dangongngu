@@ -7,6 +7,23 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <Button
+        android:id="@+id/btnEn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="En"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"/>
+
+    <Button
+        android:id="@+id/btnVi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vi"
+        android:layout_toLeftOf="@id/btnEn"
+        android:layout_marginRight="4dp"
+        android:layout_alignParentBottom="true"/>
+
     <TextView
         android:id="@+id/textViewTitle"
         android:layout_marginTop="20dp"
